@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic"
-permalink: /academic/
+permalink: /academic-history/
 author_profile: true
 redirect_from:
   -
