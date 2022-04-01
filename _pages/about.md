@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student major in Computer Engineering at Jacobs School of Engineering at University of California, San Diego. My focus is on Softwear Engineering and Machine Learning.
+I am a third-year undergraduate student major in Computer Engineering at Jacobs School of Engineering at University of California, San Diego. My focus is on Software Engineering and Machine Learning.
 
 A data-driven personal website
 ======
