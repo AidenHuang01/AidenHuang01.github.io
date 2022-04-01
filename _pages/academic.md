@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## University of California, San Diego
+## Major: Computer Engineering
+***
+
 ## GPA
 * Overall GPA: 3.945 (Updated 3/31/2022)
 * Major GPA: 4.0 (Upper Division Major Courses--Updated 3/31/2022) 
