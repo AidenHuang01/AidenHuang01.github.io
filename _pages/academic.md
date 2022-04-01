@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic"
+title: "Academic History"
 permalink: /academic-history/
 author_profile: true
 redirect_from:
@@ -13,9 +13,11 @@ redirect_from:
 * Overall GPA: 3.945 (Updated 3/31/2022)
 * Major GPA: 4.0 (Upper Division Major Courses--Updated 3/31/2022) 
 
+
 ## Computer Science and Engineering
 * CSE 150B AI: Search and Reasoning **(WIP)**
 * CSE 120 Princ/Computer Operating System **(WIP)**
+* CSE 294 Research Meeting in CSE with Professor Alex Orailoglu **(PASS)**
 * CSE 151B Deep Learning **(A+)**
 * CSE 152A Introduction to Comp Vision I **(A)**
 * CSE 110 Software Engineering **(A)**
@@ -26,14 +28,15 @@ redirect_from:
 * CSE 30 Computer Organization&Systems Progrmming **(A+)**
 * CSE 21 Math/Algorithm&Systems Analys **(A+)**
 
+
 ## Electrical and Computer Engineering
+* ECE 199 Independent Study/Undergrads **(WIP)**
 * ECE 101 Linear Systems Fundamentals **(A+)**
 * ECE 65 Components & Circuits Lab **(A)**
 * ECE 45 Circuits and Systems **(A)**
 * ECE 35 Introduction to Analog Design **(A)**
 * ECE 109 Engineering Probability&Stats **(A)**
 
-*Italicized: Course Enrolled while at Carnegie Mellon University*
 
 ## Mathematic
 * MATH 20D Introduction to Differential Equations **(A)**
@@ -43,6 +46,9 @@ redirect_from:
 
 ## Data Science
 * DSC 190 Introduction to Data Mining **(A+)**
+
+## Cognitive Science
+* COGS 108 Data Science in Practice **(WIP)**
 
 
 ## Japanese Studies
