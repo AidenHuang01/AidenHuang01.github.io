@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+# WIP:
+## This website is still under development
+
 I am a third-year undergraduate student major in **Computer Engineering** at Jacobs School of Engineering at University of California, San Diego. My focus is on **Software Engineering** and **Machine Learning**.
 
 My Schedule
